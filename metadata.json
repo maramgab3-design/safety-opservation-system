@@ -1,0 +1,8 @@
+{
+  "name": "Remix Oil \u0026 Gas Safety Observation System",
+  "description": "Hazard tracking, near-miss reporting, and real-time safety analytics for oil and gas operations with IOGP Life-Saving Rules compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
